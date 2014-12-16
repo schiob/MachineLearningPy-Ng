@@ -1,3 +1,5 @@
 # Octave files
 *.m
 
+# ipython checkpoints/
+*.ipynb_checkpoints/
